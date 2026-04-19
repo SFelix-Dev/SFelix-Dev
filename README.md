@@ -34,10 +34,14 @@ I’m a computer science student focused on building practical software and stre
 
 ---
 
-## 📂 Projects
+## 🚀 Current Project
+### Python Search Engine (Flask + SQLite)
+- Built a full-stack search engine using Flask and SQLite
+- Implemented an inverted index for fast keyword-based search
+- Designed a ranking system based on keyword frequency
+- Created a simple web UI for querying and displaying results
 
-🚧 Currently building and uploading projects to showcase my skills.
-Projects will include applications focused on problem-solving, data structures, and real-world functionality.
+🔗 https://github.com/SFelix-Dev/python-search-engine
 
 ---
 
