@@ -59,5 +59,10 @@ I’m a computer science student focused on building practical software and stre
 
 ---
 
-⭐️ *Actively building projects — check back soon to see my progress.*
+⭐️ *Actively building projects — check back to see my progress.*
 
+## 🔥 GitHub Streak
+[![GitHub Streak](https://streak-stats.demolab.com?user=SFelix-Dev&theme=tokyonight)](https://git.io/streak-stats)
+
+## 📈 GitHub Activity
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SFelix-Dev&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
