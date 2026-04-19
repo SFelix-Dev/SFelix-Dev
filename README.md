@@ -67,6 +67,3 @@ I’m a computer science student focused on building practical software and stre
 ## 📈 GitHub Activity
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SFelix-Dev&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-## 🐍 Contribution Snake
-
-![snake gif](https://github.com/SFelix-Dev/SFelix-Dev/blob/output/github-snake-dark.svg)
