@@ -19,15 +19,13 @@ I’m a computer science student focused on building practical software and stre
 
 ## 🧠 Tech Stack
 
-![Python](https://img.shields.io/badge/Python-ffdd54?style=for-the-badge&logo=python&logoColor=black)
-![Flask](https://img.shields.io/badge/Flask-ff4f00?style=for-the-badge&logo=flask&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-7c4dff?style=for-the-badge&logo=sqlite&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-00c2ff?style=for-the-badge&logo=html5&logoColor=black)
-![CSS3](https://img.shields.io/badge/CSS3-ff0077?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-39ff14?style=for-the-badge&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/Git-ff1744?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-9c27b0?style=for-the-badge&logo=github&logoColor=white)
----
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ## 🧰 Tools
 
@@ -57,9 +55,11 @@ I’m a computer science student focused on building practical software and stre
 
 ---
 
-## 📫 Contact
+## 🤝 Connect With Me
 
-* LinkedIn: www.linkedin.com/in/felix-shyann-03630917b 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ff0077?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/)
+[![GitHub](https://img.shields.io/badge/GitHub-39ff14?style=for-the-badge&logo=github&logoColor=black)](https://github.com/SFelix-Dev)
+[![Email](https://img.shields.io/badge/Email-7c4dff?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL@gmail.com)
 
 ---
 
