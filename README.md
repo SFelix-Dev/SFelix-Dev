@@ -17,12 +17,16 @@ I’m a computer science student focused on building practical software and stre
 
 ---
 
-## 🛠️ Tech Stack
+## 🧠 Tech Stack
 
-* **Languages:** Python, Java, C++, JavaScript
-* **Web:** HTML, CSS
-* **Concepts:** Data Structures, Algorithms, Object-Oriented Programming
-
+![Python](https://img.shields.io/badge/Python-ffdd54?style=for-the-badge&logo=python&logoColor=black)
+![Flask](https://img.shields.io/badge/Flask-ff4f00?style=for-the-badge&logo=flask&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-7c4dff?style=for-the-badge&logo=sqlite&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-00c2ff?style=for-the-badge&logo=html5&logoColor=black)
+![CSS3](https://img.shields.io/badge/CSS3-ff0077?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-39ff14?style=for-the-badge&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-ff1744?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-9c27b0?style=for-the-badge&logo=github&logoColor=white)
 ---
 
 ## 🧰 Tools
