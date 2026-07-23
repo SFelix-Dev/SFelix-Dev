@@ -3,7 +3,7 @@
 🎓 Computer Science Major (Junior)
 🤖 Minor in Artificial Intelligence
 🔐 Minor in Cybersecurity
-📅 Expected Graduation: Fall 2027
+📅 Expected Graduation: Summer 2027
 
 💻 Aspiring Software Engineer
 
