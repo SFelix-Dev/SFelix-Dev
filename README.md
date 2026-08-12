@@ -1,23 +1,23 @@
-## Hi, I'm Felix 👋
+## Hi, I'm Felix 
 
-🎓 Computer Science Major (Junior)
-🤖 Minor in Artificial Intelligence
-🔐 Minor in Cybersecurity
-📅 Expected Graduation: Summer 2027
+- Computer Science Major (Junior)
+- Minor in Artificial Intelligence
+- Minor in Cybersecurity
+- Expected Graduation: Summer 2027
 
-💻 Aspiring Software Engineer
+---Aspiring Software Engineer---
 
 📍 Florida
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I’m a computer science student focused on building practical software and strengthening my problem-solving skills. I have experience working with multiple programming languages and development tools, and I am currently developing projects to showcase my abilities and prepare for software engineering internships.
 
 ---
 
-## 🧠 Tech Stack
+## Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -36,7 +36,8 @@ I’m a computer science student focused on building practical software and stre
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
 ![Terminal](https://img.shields.io/badge/Terminal-000000?style=for-the-badge&logo=windows-terminal&logoColor=white)
-## 🧰 Tools
+
+## Tools
 
 * **Version Control:** Git, GitHub
 * **Development:** VS Code, Xcode
@@ -45,7 +46,7 @@ I’m a computer science student focused on building practical software and stre
 
 ---
 
-## 🚀 Current Project
+## Current Project
 ### Python Search Engine (Flask + SQLite)
 - Built a full-stack search engine using Flask and SQLite
 - Implemented an inverted index for fast keyword-based search
@@ -56,7 +57,7 @@ I’m a computer science student focused on building practical software and stre
 
 ---
 
-## 📚 Currently Focused On
+## Currently Focused On
 
 * Strengthening data structures & algorithms
 * Building real-world software projects
@@ -74,9 +75,9 @@ I’m a computer science student focused on building practical software and stre
 
 ⭐️ *Actively building projects — check back to see my progress.*
 
-## 🔥 GitHub Streak
+## GitHub Streak
 [![GitHub Streak](https://streak-stats.demolab.com?user=SFelix-Dev&theme=tokyonight)](https://git.io/streak-stats)
 
-## 📈 GitHub Activity
+## GitHub Activity
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SFelix-Dev&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
