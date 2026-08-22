@@ -3,8 +3,8 @@
 - Minor in Artificial Intelligence
 - Minor in Cybersecurity
 - Expected Graduation: Summer 2027
----Aspiring Software Engineer
-Location- Florida
+- Aspiring Software Engineer
+- Location- Florida
 
 ---
 
